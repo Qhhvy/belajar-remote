@@ -1,0 +1,4 @@
+Barang :
+1. Komputer
+2. Mouse
+3. Keyboard
