@@ -1,5 +1,5 @@
 Pencapaian di 2024 :
-1. Selesai membuat project laravel
+1. Memahami UI/UX desain
 2. Punya website sendiri
 3. Punya akun google baru
 4. Selesai tilawah 30 juz
